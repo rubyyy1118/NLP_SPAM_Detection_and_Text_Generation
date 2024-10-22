@@ -1,4 +1,4 @@
-# NLP_SPAM_Detection_and_Text_Generation
+# Natural Language Processing for Spam Detection and Text Generation
 ## 1. Project Overview
 
 This repository applies traditional machine learning (SVM) and deep learning (LSTM) techniques to classify SMS messages as **spam** or **ham**. The project also includes a text generation model that produces spam-like messages, which are subsequently used to evaluate the performance of the classifiers.
